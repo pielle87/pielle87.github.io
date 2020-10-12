@@ -1,4 +1,5 @@
 # AngularTetris
+https://indepth.dev/game-development-tetris-in-angular/#tetris--1/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.5.
 
